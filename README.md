@@ -5,10 +5,16 @@
 After completing a degree and internship as an Electronic Engineer
 
 ## SKILLS ##
+#### Diverse Skillset #### 
+#### Calm under Pressure ####
+#### Inquisitive Nature ####
+#### Team Player ####
+#### Lateral Thinker ####
 
 ## EDUCATION ##
 
 #### Makers Acadamy: April 17 - July 17 ####
+--------------------------------------------
 
 #### University of Bristol: September 11 - June 14 ####
 Electronic and Communications Engineering: 2:2
