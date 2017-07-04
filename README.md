@@ -2,8 +2,12 @@
 
 ### Skills Education Experience Interests Contact ###
 
-After completing a degree and internship as an Electronic Engineer I have become a full stack developer with excellent inter-personel, teamwork, and technical skills. I can bring adaptability and versitility to your workplace, shown through my diverse skill set and interests.
+After completing a degree and internship as an Electronic Engineer I have become a full stack developer with excellent inter-personel, teamwork, and technical skills. I can bring adaptability and versitility to your workplace, shown through my diverse skill set and interests. Following, are 2 projects showing my passion for clean code, TDD and working as part of a team. 
 
+The first is an example tech test showing object orientated programming and the single responsibility principle.
+https://github.com/therealtimhawkins/bank-tech-test
+
+The second shows a group project completed by myself and 3 others, that focuses on clear and defined file structure, collaboration and user experience.
 https://github.com/ilarne/team-whiteboard
 ## SKILLS ##
 #### Diverse Skillset ####
