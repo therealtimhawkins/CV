@@ -2,11 +2,14 @@
 
 ### Skills Education Experience Interests Contact ###
 
-After completing a degree and internship as an Electronic Engineer
+After completing a degree and internship as an Electronic Engineer I have become a full stack developer with excellent inter-personel, teamwork, and technical skills. I can bring adaptability and versitility to your workplace, shown through my diverse skill set and interests.
 
+https://github.com/ilarne/team-whiteboard
 ## SKILLS ##
-#### Diverse Skillset #### 
+#### Diverse Skillset ####
+
 #### Calm under Pressure ####
+Working in the high pressure environment of transport logistic has given me a 
 #### Inquisitive Nature ####
 #### Team Player ####
 #### Lateral Thinker ####
