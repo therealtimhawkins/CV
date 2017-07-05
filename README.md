@@ -1,24 +1,24 @@
 # TIM HAWKINS #
 
-### Skills Education Experience Interests Contact ###
+[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact)
 
 After completing a degree and internship as an Electronic Engineer I have become a full stack developer with excellent inter-personel, teamwork, and technical skills. I can bring adaptability and versitility to your workplace, shown through my diverse skill set and interests. Following, are 2 projects showing my passion for clean code, TDD and working as part of a team. 
 
 The first shows a group project completed by myself and 3 others, that focuses on clear and well defined file structure, collaboration and user experience. There is also a link to the website built for you to take a look at!
 <ul>
-https://github.com/ilarne/team-whiteboard
-http://www.onbord.live/board/home
+<li>https://github.com/ilarne/team-whiteboard</li>
+<li>http://www.onbord.live/board/home</li>
 </ul>
 
 The second is an example tech test showing object orientated programming and the single responsibility principle.
 <ul>
-https://github.com/therealtimhawkins/bank-tech-test
+<li>https://github.com/therealtimhawkins/bank-tech-test</li>
 </ul>
 
 
 ## SKILLS ##
 #### Diverse Skillset ####
-I have always been passionate about developing the skills that a required to follow my passions. During University I learned skills in C++, C# and hardware design which I put to use designing my own game. Following a programming bootcamps, I am bringing together expeerience in Ruby, Javascript, Rails, Node.js, Express, JQuery and the testing frameworks Rspec, Jasmine, Testcafe and Mocha.
+I have always been passionate about developing the skills that a required to follow my passions. During University I learned skills in C++, C#, Matlab and hardware design which I put to use designing my own game. Following a programming bootcamp, I am now bringing together experience in Ruby, Javascript, Rails, Node.js, Express, JQuery, Angular.js and the testing frameworks Rspec, Jasmine, Testcafe and Mocha.
 
 #### Calm under Pressure ####
 
@@ -26,7 +26,7 @@ I have always been passionate about developing the skills that a required to fol
 
 #### Team Player ####
 
-#### Eye for Details ####
+#### Eye for Detail ####
 
 ## EDUCATION ##
 
