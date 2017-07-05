@@ -20,11 +20,14 @@ The second is an example tech test showing object orientated programming and the
 #### Diverse Skillset ####
 I have always been passionate about developing the skills that a required to follow my passions. During University I learned skills in C++, C#, Matlab and hardware design which I put to use designing my own game. Following a programming bootcamp, I am now bringing together experience in Ruby, Javascript, Rails, Node.js, Express, JQuery, Angular.js and the testing frameworks Rspec, Jasmine, Testcafe and Mocha.
 
-#### Calm under Pressure ####
+#### Team Player ####
+Working within a team has always been a big part of any job which I've enjoyed the most. From the stressfull deadlines of the programming bootcamp and the Manchester Airport to cycling within the peleton, I love to work hard for the success of the team.
 
 #### Inquisitive Nature #### 
+Entering the manufacturing industry at a young age I quickly obtained a desire to understand how things are built, and wanted to learn the skills to create things myself. I attended a welding NVQ2 at night school, multiple chainsaw courses and later programming classes in order to have the ability to create the things I wanted to.
 
-#### Team Player ####
+#### Calm under Pressure ####
+
 
 #### Eye for Detail ####
 
