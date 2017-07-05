@@ -2,7 +2,7 @@
 
 [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact)
 
-After completing a degree and internship as an Electronic Engineer I have become a full stack developer with excellent inter-personel, teamwork, and technical skills. I can bring adaptability and versitility to your workplace, shown through my diverse skill set and interests. Following, are 2 projects showing my passion for clean code, TDD and working as part of a team. 
+After completing a degree and internship as an Electronic Engineer I have become a full stack developer with excellent inter-personal, teamwork, and technical skills. I can bring adaptability and versatility to your workplace, shown through my diverse skill set and interests. Following, are 2 projects showing my passion for clean code, TDD and working as part of a team. 
 
 The first shows a group project completed by myself and 3 others that focuses on clear and well defined file structure, collaboration and user experience. There is also a link to the website that we built for you to take a look at!
 <ul>
@@ -17,11 +17,11 @@ The second is an example tech test showing object orientated programming and the
 
 
 ## SKILLS ##
-#### Diverse Skillset ####
+#### Diverse Skill Set ####
 I have always been passionate about developing the skills that a required to follow my passions. During University I learned skills in C++, C#, Matlab and hardware design which I put to use designing my own game. Following a programming bootcamp, I am now bringing together experience in Ruby, Javascript, Rails, Node.js, Express, JQuery, Angular.js and the testing frameworks Rspec, Jasmine, Testcafe and Mocha.
 
 #### Team Player ####
-Working within a team has always been a big part of any job which I've enjoyed the most. From the stressfull deadlines of the programming bootcamp and the Manchester Airport to cycling within the peleton, I love to work hard for the success of the team.
+Working within a team has always been a big part of any job which I've enjoyed the most. From the stressful deadlines of the programming boot camp and the Manchester Airport to cycling within the peleton, I love to work hard for the success of the team.
 
 #### Inquisitive Nature #### 
 Entering the manufacturing industry at a young age I quickly obtained a desire to understand how things are built, and wanted to learn the skills to create things myself. I attended a welding NVQ2 at night school, multiple chainsaw courses and later programming classes in order to have the ability to build the things I wanted to.
