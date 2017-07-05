@@ -4,19 +4,29 @@
 
 After completing a degree and internship as an Electronic Engineer I have become a full stack developer with excellent inter-personel, teamwork, and technical skills. I can bring adaptability and versitility to your workplace, shown through my diverse skill set and interests. Following, are 2 projects showing my passion for clean code, TDD and working as part of a team. 
 
-The first is an example tech test showing object orientated programming and the single responsibility principle.
-https://github.com/therealtimhawkins/bank-tech-test
-
-The second shows a group project completed by myself and 3 others, that focuses on clear and defined file structure, collaboration and user experience.
+The first shows a group project completed by myself and 3 others, that focuses on clear and well defined file structure, collaboration and user experience. There is also a link to the website built for you to take a look at!
+<ul>
 https://github.com/ilarne/team-whiteboard
+http://www.onbord.live/board/home
+</ul>
+
+The second is an example tech test showing object orientated programming and the single responsibility principle.
+<ul>
+https://github.com/therealtimhawkins/bank-tech-test
+</ul>
+
+
 ## SKILLS ##
 #### Diverse Skillset ####
+I have always been passionate about developing the skills that a required to follow my passions. During University I learned skills in C++, C# and hardware design which I put to use designing my own game. Following a programming bootcamps, I am bringing together expeerience in Ruby, Javascript, Rails, Node.js, Express, JQuery and the testing frameworks Rspec, Jasmine, Testcafe and Mocha.
 
 #### Calm under Pressure ####
-Working in the high pressure environment of transport logistic has given me a 
-#### Inquisitive Nature ####
+
+#### Inquisitive Nature #### 
+
 #### Team Player ####
-#### Lateral Thinker ####
+
+#### Eye for Details ####
 
 ## EDUCATION ##
 
@@ -59,7 +69,7 @@ I completed a 16 week internship over 2 summers during University. I developed a
 
 ## CONTACT ##
 <ul>
-<li>Github: therealtimhawkins</li>
+<li>Github: https://github.com/therealtimhawkins</li>
 <li>Phone: 07930761693</li>
 <li>Email: timothyhaydenhawkins@gmail.com</li>
 </ul>
