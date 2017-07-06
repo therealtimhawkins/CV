@@ -27,7 +27,7 @@ Working within a team has always been a big part of any job which I've enjoyed t
 Entering the manufacturing industry at a young age I quickly obtained a desire to understand how things are built, and wanted to learn the skills to create things myself. I attended a welding NVQ2 at night school, multiple chainsaw courses and later programming classes in order to have the ability to build the things I wanted to.
 
 #### Eye for Detail ####
-Having a background in Electronic Engineering and spent 2 summers working a hardware design team has meant that I quickly adapted to finding problems within your work and designing products that are ready for a consumer. 
+Having a background in Electronic Engineering and spent 2 summers working a hardware design team has meant that I quickly adapted to finding problems within my own work and designing products that are ready for a consumer. 
 
 ## EDUCATION ##
 
