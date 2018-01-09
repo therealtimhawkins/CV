@@ -45,6 +45,8 @@ NVQ2 Manual Metal Arc Welding: Distinction
 
 ## EXPERIENCE ##
 
+#### Kurt Geiger: August 17 - Present ####
+
 #### MAG - Manchester Airport Group: November 15 - October 16 ####
 
 I was a key part of the resource and forecasting team for the Security and Coaching departments at the Manchester Airport. I took a leading role in the Coaching department forecast and staff management systems.
@@ -52,6 +54,8 @@ I was a key part of the resource and forecasting team for the Security and Coach
 <li>Implemented holiday management system of my own design. Built using VBA the design included search functions for the workforce by location.</li>
 <li>Real-time logistical experience coping with the rapidly changing environment of an airport.</li>
 </ul>
+
+#### Agent Software: Jan 14 - October 15 ####
 
 #### Parker SSD: June 12 - August 13 ####
 
