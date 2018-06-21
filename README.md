@@ -2,7 +2,7 @@
 
 ### KEY SKILLS ###
   |Programming Languages    |Methodologies              |Frameworks     |Testing Frameworks|
-  |--------------------:    |----------------------:    |----------:    |-----------------:|
+  |:--------------------    |:----------------------    |:----------    |:-----------------|
   |Javascript               |Agile                      |Node.js        |Nightwatch        |
   |PHP                      |Domain-Driven-Design       |Magento        |PHPUnit           |
   |Swift 4                  |Test-Driven Development    |               |XCTest            | 
