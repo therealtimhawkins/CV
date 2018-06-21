@@ -5,7 +5,9 @@
 ## SKILLS ##
 
 ## EXPERIENCE ##
---------------------------------------------
+
+---
+
 #### Web Developer - Kurt Geiger: August 17 - Present ####
 <ul>
   <li>Developed features to the site using PHP in the Magento framework.</li>
@@ -15,7 +17,9 @@
   <li>Gained experience with Domain-Driven Design and test-driving a green-field project from the ground up.</li>
   <li>Used Splunk to create dashboards to monitor site performance and catch performance issues before the end user was affected.</li>
 </ul>
---------------------------------------------
+
+---
+
 #### App Developer - Vegitabel Ltd: Present ####
 <ul>
   <li>Developed a vegetarian food finding application, using Swift 4 and XCode, to help non-meat eaters find vegetarian restaurants based on location and price range.</li>
@@ -24,7 +28,9 @@
   <li>Built a pipeline using Jenkins in order to develop understanding of continuous delivery.</li>
   <li>Honed my blossoming UX design skills.</li>
 </ul>
---------------------------------------------
+
+---
+
 #### MAG - Manchester Airport Group: November 15 - October 16 ####
 <ul>
   <li>Implemented holiday management system of my own design. Built using VBA the design included search functions for the workforce by location.</li>
