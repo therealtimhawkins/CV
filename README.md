@@ -1,11 +1,16 @@
 ## TIM HAWKINS ##
 
+---
+
 ### KEY SKILLS ###
   |Languages                |Methodologies                        |Frameworks       |Testing              |
   |:------------------------|:--------------------------          |:--------------  |:--------------------|
   |<li>Javascript</li>      |<li>Agile</li>                       |<li>Node.js</li> |<li>Nightwatch</li>  |
   |<li>PHP</li>             |<li>Domain-Driven Design</li>        |<li>Magento</li> |<li>PHPUnit</li>     |
   |<li>Swift 4</li>         |<li>Test-Driven Development</li>     |                 |<li>XCTest</li>      | 
+  
+---
+
 ### EXPERIENCE ###
 
 #### Web Developer - Kurt Geiger: August 17 - Present ####
@@ -60,12 +65,16 @@ A Levels: Electronics(A*), Geography(A), Maths(A)
 #### Wigan and Leigh College: September 09 - June 09 ####
 NVQ2 Manual Metal Arc Welding: Distinction
 
+---
+
 ### INTERESTS ###
 <ul>
   <li>Cycling</li>
   <li>Chainsaw Carving</li>
   <li>Volunteering</li>
 </ul>
+
+---
 
 ### CONTACT ###
 <ul>
