@@ -1,13 +1,11 @@
 ## TIM HAWKINS ##
 
----
-
 ### KEY SKILLS ###
   |Languages                |Methodologies                        |Frameworks       |Testing              |
   |:------------------------|:--------------------------          |:--------------  |:--------------------|
-  |<li>Javascript</li>      |<li>Agile</li>                       |<li>Node.js</li> |<li>Nightwatch</li>  |
-  |<li>PHP</li>             |<li>Domain-Driven Design</li>        |<li>Magento</li> |<li>PHPUnit</li>     |
-  |<li>Swift 4</li>         |<li>Test-Driven Development</li>     |                 |<li>XCTest</li>      | 
+  | <li>Javascript</li>      |<li>Agile</li>                       |<li>Node.js</li> |<li>Nightwatch</li>  |
+  |<li>PHP</li>             |<li>TDD</li>        |<li>Magento</li> |<li>PHPUnit</li>     |
+  |<li>Swift 4</li>         |<li>DDD</li>     |                 |<li>XCTest</li>      | 
   
 ---
 
