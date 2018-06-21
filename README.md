@@ -1,12 +1,12 @@
-# TIM HAWKINS #
+## TIM HAWKINS ##
 
-## KEY SKILLS ##
-  |Programming Languages|Methodologies          |Frameworks |Testing Frameworks|
-  |--------------------:|----------------------:|----------:|-----------------:|
-  |Javascript           |Agile                  |Node.js    |Nightwatch        |
-  |PHP                  |Test-Driven Development|Magento    |PHPUnit           |
-  |Swift 4              |Domain-Driven-Design   |           |XCTest            | 
-## EXPERIENCE ##
+### KEY SKILLS ###
+  |Programming Languages    |Methodologies              |Frameworks     |Testing Frameworks|
+  |--------------------:    |----------------------:    |----------:    |-----------------:|
+  |Javascript               |Agile                      |Node.js        |Nightwatch        |
+  |PHP                      |Domain-Driven-Design       |Magento        |PHPUnit           |
+  |Swift 4                  |Test-Driven Development    |               |XCTest            | 
+### EXPERIENCE ###
 
 #### Web Developer - Kurt Geiger: August 17 - Present ####
 <ul>
@@ -47,7 +47,7 @@
 
 ---
 
-## EDUCATION ##
+### EDUCATION ###
 
 #### Makers Acadamy: April 17 - July 17 ####
 
@@ -60,14 +60,14 @@ A Levels: Electronics(A*), Geography(A), Maths(A)
 #### Wigan and Leigh College: September 09 - June 09 ####
 NVQ2 Manual Metal Arc Welding: Distinction
 
-## INTERESTS ##
+### INTERESTS ###
 <ul>
   <li>Cycling</li>
   <li>Chainsaw Carving</li>
   <li>Volunteering</li>
 </ul>
 
-## CONTACT ##
+### CONTACT ###
 <ul>
   <li>Phone: 07930761693</li>
   <li>Email: timothyhaydenhawkins@gmail.com</li>
