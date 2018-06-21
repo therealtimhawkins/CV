@@ -20,7 +20,7 @@
 
 ---
 
-#### App Developer - Vegitabel Ltd: Present ####
+#### App Developer - Vegitable Ltd: Present ####
 <ul>
   <li>Developed a vegetarian food finding application, using Swift 4 and XCode, to help non-meat eaters find vegetarian restaurants based on location and price range.</li>
   <li>Used core Swift libraries and Cocoapods such as Core-Animation and Google Firebase.</li>
@@ -36,13 +36,16 @@
   <li>Implemented holiday management system of my own design. Built using VBA the design included search functions for the workforce by location.</li>
   <li>Real-time logistical experience coping with the rapidly changing environment of an airport.</li>
 </ul>
---------------------------------------------
+
+---
+
 #### Intern - Parker SSD: June 12 - August 13 ####
 <ul>
   <li>Implemented holiday management system of my own design. Built using VBA the design included search functions for the workforce by location.</li>
   <li>Real-time logistical experience coping with the rapidly changing environment of an airport.</li>
 </ul>
---------------------------------------------
+
+---
 
 ## EDUCATION ##
 
