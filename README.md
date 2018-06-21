@@ -1,11 +1,11 @@
 ## TIM HAWKINS ##
 
 ### KEY SKILLS ###
-  |Programming Languages    |Methodologies              |Frameworks     |Testing Frameworks|
-  |:--------------------    |:----------------------    |:----------    |:-----------------|
-  |Javascript               |Agile                      |Node.js        |Nightwatch        |
-  |PHP                      |Domain-Driven-Design       |Magento        |PHPUnit           |
-  |Swift 4                  |Test-Driven Development    |               |XCTest            | 
+  |Languages                |Methodologies                        |Frameworks       |Testing              |
+  |:------------------------|:--------------------------          |:--------------  |:--------------------|
+  |<li>Javascript</li>      |<li>Agile</li>                       |<li>Node.js</li> |<li>Nightwatch</li>  |
+  |<li>PHP</li>             |<li>Domain-Driven Design</li>        |<li>Magento</li> |<li>PHPUnit</li>     |
+  |<li>Swift 4</li>         |<li>Test-Driven Development</li>     |                 |<li>XCTest</li>      | 
 ### EXPERIENCE ###
 
 #### Web Developer - Kurt Geiger: August 17 - Present ####
