@@ -3,10 +3,15 @@
 [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [Contact](#contact)
 
 ## SKILLS ##
+<ul>
+  <li>Test1</li>
+</ul>
+<ul>
+  <li>Test2</li>
+</ul>
+  
 
 ## EXPERIENCE ##
-
----
 
 #### Web Developer - Kurt Geiger: August 17 - Present ####
 <ul>
