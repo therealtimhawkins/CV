@@ -1,6 +1,6 @@
-## TIM HAWKINS ##
+### TIM HAWKINS ###
 
-### EXPERIENCE ###
+#### EXPERIENCE ####
 
 #### Web Developer - Kurt Geiger: August 17 - Present ####
 <ul>
@@ -42,7 +42,7 @@
 
 ---
 
-### EDUCATION ###
+#### EDUCATION ####
 
 #### Makers Acadamy: April 17 - July 17 ####
 
@@ -57,7 +57,7 @@ NVQ2 Manual Metal Arc Welding: Distinction
 
 ---
 
-### INTERESTS ###
+#### INTERESTS ####
 <ul>
   <li>Cycling</li>
   <li>Woodworking</li>
@@ -66,7 +66,7 @@ NVQ2 Manual Metal Arc Welding: Distinction
 
 ---
 
-### CONTACT ###
+#### CONTACT ####
 <ul>
   <li>Phone: 07930761693</li>
   <li>Email: timothyhaydenhawkins@gmail.com</li>
