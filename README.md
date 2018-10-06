@@ -1,14 +1,11 @@
 ## TIM HAWKINS ##
 
-### KEY SKILLS ###
-
-
 ### EXPERIENCE ###
 
 #### Web Developer - Kurt Geiger: August 17 - Present ####
 <ul>
   <li>Worked to move the checkout over to Node.js based micro-services</li>
-  <li>Remodeled checkout frontend components to use React and atomic design</li>
+  <li>Remodeled checkout frontend components to use React and Atomic design</li>
   <li>Took a leading role introducing the Nightwatch end-to-end testing framework. Adding feature tests to the code base has drastically improved code quality and confidence when deploying new work</li>
     <li>Developed features for the site using PHP within the Magento framework</li>
   <li>Gained experience with Domain-Driven Design and test-driving a green-field project from the ground up</li>
@@ -73,5 +70,5 @@ NVQ2 Manual Metal Arc Welding: Distinction
 <ul>
   <li>Phone: 07930761693</li>
   <li>Email: timothyhaydenhawkins@gmail.com</li>
-  <li>Address: Flat 15, 814 Old Kent Road, London, SE15 1AJ
+  <li>Address: Flat 30, Andersens Wharf, 20 Copenhagen Place, E14 7DX
 </ul>
