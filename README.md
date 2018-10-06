@@ -2,6 +2,8 @@
 
 #### EXPERIENCE ####
 
+---
+
 #### Web Developer - Kurt Geiger: August 17 - Present ####
 <ul>
   <li>Worked to move the checkout over to Node.js based micro-services</li>
