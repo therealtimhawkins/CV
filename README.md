@@ -4,24 +4,26 @@
 
 ---
 
-#### Web Developer - Kurt Geiger: August 17 - Present ####
+#### Backend Web Developer - Kurt Geiger: August 17 - Present ####
 <ul>
   <li>Worked to move the checkout over to Node.js based micro-services</li>
-  <li>Remodeled checkout frontend components to use React and Atomic design</li>
+  <li>Designed, built and tested RESTful APIs in Javascript</li>
   <li>Took a leading role introducing the Nightwatch end-to-end testing framework. Adding feature tests to the code base has drastically improved code quality and confidence when deploying new work</li>
-    <li>Developed features for the site using PHP within the Magento framework</li>
-  <li>Gained experience with Domain-Driven Design and test-driving a green-field project from the ground up</li>
+  <li>Gained experience with Test-Driven and Domain-Driven Design</li>
   <li>Used Splunk to create dashboards to monitor site performance and catch issues before the end user was affected</li>
+  <li>Remodeled checkout frontend components to use React and Atomic design</li>
 </ul>
 
 ---
 
-#### App Developer - Vegitable Ltd: Present ####
+#### Web App Developer - Vegitable Ltd: Personal Project ####
 <ul>
-  <li>Developed a vegetarian food finding application, using Swift 4 and XCode, to help non-meat eaters find vegetarian restaurants based on location and price range</li>
-  <li>Used core Swift libraries and Cocoapods such as Core-Animation and Google Firebase</li>
+  <li>Developed a vegetarian food finding web application, to help non-meat eaters find vegetarian restaurants based on location and price range</li>
+  <li>Built multiple RESTful micro-services in Node to handle data management and filtering algorithms</li>
+  <li>Create detached frontend in React and Redux</li>
+  <li>Built iOS native app using  Swift and XCode. Gained experience with Cocoapods such as Core-Animation and Google Firebase</li>
   <li>Took the project as an opportunity to focus on best practices in Agile methodologies and TDD</li>
-  <li>Built a pipeline using Jenkins in order to develop understanding of continuous delivery</li>
+  <li>Built development environments in Docker to allow the development of multiple services in conjunction</li>
   <li>Honed my blossoming UX design skills</li>
 </ul>
 
@@ -37,16 +39,19 @@
 
 #### Intern - Parker SSD: June 12 - August 13 ####
 <ul>
-  <li>Designed and programmed a harmonic analytics tool to examine voltage waves before entering the power grid</li>
+  <li>Designed and programmed a harmonic analytics tool using Matlab and Simulink to examine voltage waves before entering the power grid</li>
   <li>Worked closely with the manufacturing production team, testing the efficiency of replacements for discontinued products using hard and soft analytical tools</li>
   <li>Used Matlab to analyse large data sets and visualise the results to develop communications antennas</li>
 </ul>
 
 ---
+<br />
 
 #### EDUCATION ####
 
-#### Makers Acadamy: April 17 - July 17 ####
+---
+
+#### Makers Academy: April 17 - July 17 ####
 
 #### University of Bristol: September 11 - June 14 ####
 Electronic and Communications Engineering: 2:2
